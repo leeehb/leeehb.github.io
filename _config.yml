@@ -85,7 +85,7 @@ author:
   bio              : "练习时长不足两年半的个人偶像练习生（一个真正的iKun）"
   location         : "中国·宁波"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : 2211100262@nbu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
