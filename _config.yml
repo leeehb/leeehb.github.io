@@ -89,14 +89,14 @@ author:
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : 2211100262@nbu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#   uri              :
+  uri              : "https://blog.csdn.net/qaq2020"
 #   bitbucket        :
 #   codepen          :
 #   dribbble         :
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  CSDN           : "https://blog.csdn.net/qaq2020"
+    github           :"https://github.com/lhbhhh"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
