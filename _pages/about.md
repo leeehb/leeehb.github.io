@@ -16,4 +16,4 @@ redirect_from:
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+如果对我感兴趣可以先联系我然后请我吃肯德基。这是我的[CSDN](https://blog.csdn.net/qaq2020)主页，虽然里面什么也没有，但是可以在这上面私信我。祝你快乐！
