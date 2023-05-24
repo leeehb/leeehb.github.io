@@ -88,7 +88,7 @@ author:
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : 2211100262@nbu.edu.cn
-  github           : "https://github.com/lhbhhh"
+  github           : https://github.com/lhbhhh
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              : "https://blog.csdn.net/qaq2020"
 #   bitbucket        :
