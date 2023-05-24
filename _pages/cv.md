@@ -12,14 +12,14 @@ redirect_from:
 教育经历
 ======
 * 工学学士, 河南工业大学, 2018-2022
-* 工学学士, 宁波大学, 2022-2025(expected)
+* 工学硕士, 宁波大学, 2022-2025(expected)
 
 项目经历
 ======
-* Summer 2018: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: 项目成员
+  * 郑州863软件公司
+  * 职责: 不记得了
+  * 收获: 学会了团队协作
   
 技能
 ======
