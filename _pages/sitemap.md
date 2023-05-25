@@ -10,7 +10,7 @@ author_profile: true
 A list of all the posts and pages found on the site. （本站的站点图）
 
 <h2>Pages</h2>
-个人主页
+ [Pages](https://leeehb.github.io/ "个人主页")。
 
 <h2>Publications</h2>
 发表的论文
