@@ -9,7 +9,7 @@ author_profile: true
 
 A list of all the posts and pages found on the site. （本站的站点图）
 
-<h2><a href="https://leeehb.github.io/">Pages</a></h2>
+<h2><a href="https://leeehb.github.io/">Home Pages</a></h2>
 我的主页
 
 <h2><a href="https://leeehb.github.io/publications/">Publications</a></h2>
@@ -18,10 +18,10 @@ A list of all the posts and pages found on the site. （本站的站点图）
 <h2><a href="https://leeehb.github.io/portfolio/">Portfolio</a></h2>
 项目经历
 
-<h2><a href="https://leeehb.github.io/year-archive/">Portfolio</a></h2>
+<h2><a href="https://leeehb.github.io/year-archive/">Blog Posts</a></h2>
 博客/帖子
 
-<h2><a href="https://leeehb.github.io/cv/">Portfolio</a></h2>
+<h2><a href="https://leeehb.github.io/cv/">CV</a></h2>
 个人简历
 
 
